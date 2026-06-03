@@ -6,7 +6,7 @@ const educationData = [
   {
     year: "2026",
     title: "ICSI Professional Programme",
-    subtitle: "Corporate Governance & Compliance",
+    subtitle: "Institute of Company Secretaries of India",
   },
 
   {

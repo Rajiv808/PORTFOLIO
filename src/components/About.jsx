@@ -79,7 +79,7 @@ const About = () => {
                   ICSI Professional Programme
                 </h4>
 
-                <p>Corporate Governance & Compliance</p>
+                <p>Institute of Company Secretaries of India</p>
               </div>
 
               <div>
